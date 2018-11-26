@@ -1,6 +1,4 @@
-# FOS-Streaming-v1 is unmaintained for now. Maybe we will maintain it in the future.
-
-# FOS-Streaming-v1
+# Panal
 ## Features:
 - Streaming and restreaming (authentication, m3u8)
 - Manage users (overview, add, edit, delete, enable, disable)

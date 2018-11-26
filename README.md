@@ -19,13 +19,13 @@
 
 
 ## Installation (64bit):
-1. `wget https://raw.githubusercontent.com/irtec/FOS-Streaming-v1/master/install_fos_ubuntu1404_64bit.sh`
+1. `wget https://raw.githubusercontent.com/bobo635/DRSATfos/master/install_fos_ubuntu1404_64bit.sh`
 2. `chmod 755 install_fos_ubuntu1404_64bit.sh`
 3. `./install_fos_ubuntu1404_64bit.sh`
 
 
 ## Installation (32bit):
-1. `wget https://raw.githubusercontent.com/irtec/FOS-Streaming-v1/master/install_fos_ubuntu1404_32bit.sh`
+1. `wget https://raw.githubusercontent.com/bobo635/DRSATfos/master/install_fos_ubuntu1404_32bit.sh`
 2. `chmod 755 install_fos_ubuntu1404_32bit.sh`
 3. `./install_fos_ubuntu1404_32bit.sh`
 
@@ -47,19 +47,6 @@
 Are there bugs?
 You can report it here or on official website
 
-## Commercial rights
-- You may charge for installation, support and modification.
-- You may Any significant modifications must be sent back to the author (me), under Open Source agreement.
-- You may not Rename the plugin.
-- You may not sell this plugin to anyone.
-
-## Contribution
-Contribution are always **welcome and recommended**! Here is how:
-
-1. Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-2. Clone to your machine `git clone https://github.com/YOUR_USERNAME/FOS-Streaming-v1.git`
-3. Make your changes
-4. Create a pull request
 
 ### Contribution Requirements:
 
